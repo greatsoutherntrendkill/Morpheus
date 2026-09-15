@@ -1,2 +1,2 @@
 # Morpheus
-Analytics in finance, world news and predict market with financial modeling
+Analytics in finance, world news and predict markets with financial modeling
